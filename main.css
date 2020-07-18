@@ -1,0 +1,21 @@
+p {
+  text-align: center;
+  color: whitesmoke;
+  margin-top: 150px;
+  font-size: 30px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  width: 480px;
+  max-width: calc(100vw - 10px);
+  margin-left: auto;
+  margin-right: 600px;
+}
+body {
+ background-image: url('assets/wc1748679.jpg');
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+}
+.kobe {
+  font-size: 18px;
+}
